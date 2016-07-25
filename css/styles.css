@@ -16,9 +16,14 @@
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
   background-color: rgba(0, 0, 0, .8);
   color: #fff;
+  font-weight: bold;
 }
 .navbar-default .navbar-nav>li>a {
   color: #fff;
+  font-weight: bold;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+  color: #FFFF00;
 }
 
 /*==========CAROUSEL Section==========*/
@@ -29,8 +34,8 @@
   min-height: 65vh;
 }
 .logo-cultery {
-  width: 300px;
-  padding-top: 150px;
+  width: 250px;
+  padding-top: 200px;
   padding-bottom: 75px;
 }
 .slider_background_one {
@@ -44,6 +49,22 @@
 .slider_background_three {
   max-height: 100%;
   width: 100%;
+}
+.slider_two_title {
+  font-size: 40px;
+  font-weight: bold;
+}
+.slider_three_title {
+  font-size: 40px;
+  font-weight: bold;
+}
+.caption_text {
+  margin-bottom: 100px;
+}
+.button_color {
+  background-color: #f8512f;
+  border: #f8512f;
+  color: white;
 }
 
 /*==========OUR STORY SECTION==========*/
