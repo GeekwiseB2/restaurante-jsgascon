@@ -38,44 +38,44 @@
   padding-top: 200px;
   padding-bottom: 75px;
 }
-.slider_background_one {
+.slider-background-one {
   max-height: 100%;
   width: 100%;
 }
-.slider_background_two {
+.slider-background-two {
   max-height: 100%;
   width: 100%;
 }
-.slider_background_three {
+.slider-background-three {
   max-height: 100%;
   width: 100%;
 }
-.slider_two_title {
+.slider-two-title {
   font-size: 40px;
   font-weight: bold;
 }
-.slider_three_title {
+.slider-three-title {
   font-size: 40px;
   font-weight: bold;
 }
-.caption_text {
+.caption-text {
   margin-bottom: 100px;
 }
-.button_color {
+.button-color {
   background-color: #f8512f;
   border: #f8512f;
   color: white;
 }
 
 /*==========OUR STORY SECTION==========*/
-.about_info {
+.about-info {
   height: 500px;
 }
-.left_content {
+.left-content {
   padding-top: 50px;
   padding-left: 100px;
 }
-.right_content {
+.right-content {
   padding-top: 50px;
   padding-right: 100px;
 }
@@ -104,7 +104,7 @@ p {
 }
 
 /*==========FRESNO BEE SECTION==========*/
-.fresno_bee_background {
+.fresno-bee-background {
   height: 600px;
   background: url("../img/food_review.jpg");
   background-repeat: no-repeat;
@@ -112,17 +112,17 @@ p {
   background-size: cover;
   padding-top: 150px;
 }
-.fresno_bee_slogan_background {
+.fresno-bee-slogan-background {
   background: rgba(0, 0, 0, 0.5);
   border-radius: 5px;
 }
-.fresno_bee_title {
+.fresno-bee-title {
   font-family: "Lobster", cursive;
   font-size: 70px;
   color: #f8512f;
   text-align: center;
 }
-.slogan_text {
+.slogan-text {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
   color: #fff;
@@ -139,31 +139,28 @@ p {
   background-size: cover;
   padding-top: 30px;
 }
-.menu_title {
+.menu-title {
   font-family: "Lobster", cursive;
   font-size: 80px;
   color: #fff;
   text-align: center;
 }
-.nav_custom.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+.nav-custom.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
   color: #f8512f;
   text-transform: uppercase;
-  text-align: center;
   font-weight: bold;
 }
-.nav_custom.nav > li > a {
-  padding: 5px 80px 5px 80px;
+.nav-custom.nav > li > a {
   color: #f8512f;
   text-transform: uppercase;
-  text-align: center;
   font-weight: bold;
 }
-.menu_box {
+.menu-box {
   background-color: #fff;
   padding-top: 20px;
   padding-bottom: 10px;
 }
-.item_title_text {
+.item-title-text {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   font-size: 20px;
@@ -175,34 +172,34 @@ p {
   background-color: #f8512f;
   padding: 20px;
 }
-.contact_verbiage {
+.contact-verbiage {
   padding-bottom: 50px;
 }
 .form-group label {
   color: #fff;
 }
-.contact_form_box {
+.contact-form-box {
   background-color: #FF6633;
   padding: 10px;
 }
-.contact_title_text {
+.contact-title-text {
   font-family: 'Raleway', sans-serif;
   color: #fff;
   font-size: 50px;
   font-weight: 700;
   text-transform: uppercase;
 }
-.contact_text {
+.contact-text {
   color: #fff;
 }
-.checkbox_container {
+.checkbox-container {
   background-color: #fff;
   border-radius: 5px;
   padding-top: 10px;
   padding-left: 10px;
   height: 80px;
 }
-.checkbox_container img {
+.checkbox-container img {
   height: 60px;
   width: 60px;
 }
@@ -212,7 +209,7 @@ input[type=checkbox] {
   /* Webkit browsers*/
   -webkit-transform: scale(1.5);
 }
-.map_title {
+.map-title {
   color: #fff;
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
@@ -220,7 +217,7 @@ input[type=checkbox] {
   font-size: 12px;
   margin: 0;
 }
-.map_info {
+.map-info {
   font-size: 12px;
   color: #fff;
 }
